@@ -1,7 +1,5 @@
 # NumPy Store Sales Analyzer
-A beginner_friendly NumPy project
-that analyzes weeklt store sales
-data.
+# A beginner_friendly NumPy project that analyzes weeklt store sales data.
 
 ## Features
 - Calculate total weekly sales
